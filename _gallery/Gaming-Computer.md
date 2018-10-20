@@ -1,5 +1,4 @@
 ---
-
 author: Helieus
 title: Gaming-Computer
 image_url: /images/Gaming-Computer.jpg
@@ -11,5 +10,4 @@ categories:
   - keyboard
 tags:
   - C64
-  
 ---
