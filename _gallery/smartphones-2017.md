@@ -1,4 +1,4 @@
-### Τέσσερα κινητά από διαφορετικές οπτικές γωνίες 
+
 ---
 author: GIANNIS-AGGELIS
 title: apple-newton
